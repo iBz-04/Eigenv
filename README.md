@@ -1,4 +1,3 @@
-# ReadMe for Power Method Pseudocode
 
 ## Overview
 
